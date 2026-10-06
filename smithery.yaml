@@ -1,3 +1,18 @@
+name: solana-radar-mcp
+displayName: SolanaRadar - Crypto DEX & Memecoin MCP
+description: Solana DEX Intelligence, Live Token Prices, Trending Memecoins & Safety Sniffer MCP Server for Claude, Cursor, and AI Agents.
+category: crypto
+homepage: https://github.com/AmyGraphics/solana-radar-mcp
+repository: https://github.com/AmyGraphics/solana-radar-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/solana-radar-mcp/main/icon.png
+keywords:
+  - solana
+  - crypto
+  - memecoins
+  - dexscreener
+  - jupiter-dex
+  - mcp
+  - claude
 startCommand:
   type: http
   url: https://solana-radar-api.agentweb-hub.workers.dev/mcp
