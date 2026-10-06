@@ -1,0 +1,9 @@
+{
+  "name": "solana-radar-mcp",
+  "version": "1.0.0",
+  "description": "Solana DEX Intelligence, Live Token Prices, Trending Memecoins & Safety Sniffer MCP Server for Claude, Cursor, and AI Agents",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}
