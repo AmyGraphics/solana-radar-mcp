@@ -12,7 +12,7 @@ Universal Solana DEX Intelligence & Memecoin Radar MCP Server for **Claude Deskt
 Server URL: `https://solana-radar-api.agentweb-hub.workers.dev/mcp`
 
 
-## 🔴 NEW in v1.1 — Live Tool: `get_solana_network_status_live`
+## 🔴 NEW in v1.1 — Live Tool: `solana.network_status_live`
 
 Queries the Solana mainnet public RPC live (with automatic multi-endpoint failover): current epoch and slot, real network TPS computed from on-chain performance samples, solana-core version, and the real SOL balance of any wallet address — all real on-chain state, no API key.
 
