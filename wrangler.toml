@@ -1,0 +1,7 @@
+name = "solana-radar-api"
+main = "src/index.js"
+compatibility_date = "2024-09-23"
+
+[vars]
+ENVIRONMENT = "production"
+WALLET_ADDRESS = "8sDLX3okSV974wdjdeKhN9uWLZDr45DeGCJ28zgTLEdJ"
